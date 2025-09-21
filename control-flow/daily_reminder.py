@@ -19,4 +19,4 @@ if time_bound == "yes":
 else:
     message = "Note: " + message + ". Consider completing it when you have free time."
 
-print("\nReminder:", message)
+print("Reminder:", message)
